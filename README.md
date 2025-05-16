@@ -2,6 +2,9 @@
 
 An OpenAI API-compatible server implementation supporting completions, chat completions and models endpoints.
 
+## Acknowledgments
+This project was generated with [Tencent CodeBuddy Craft](https://copilot.tencent.com/).
+
 ## Features
 
 - Supports three endpoints: `/v1/completions`, `/v1/chat/completions`, `/v1/models`
